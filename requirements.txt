@@ -3,3 +3,5 @@ matplotlib
 RISE
 scipy
 datetime
+pandas
+ipywidgets
